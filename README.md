@@ -4,7 +4,7 @@ I'm a Data Sciencest,Full Stack Web Developer(flask),A cross platfrom app develo
 Have a look on my android app over here> https://play.google.com/store/apps/dev?id=7351632134720721029
 
 ## 🛠 Skills
-Javascript,HTML,CSS,Java,Python,C,C++,Dart,SQL,Android Studio,Flutter,Arduino,Raspberry pi
+Javascript,HTML,CSS,Java,Python,C,C++,SQL,Android Studio,Flutter,Arduino,Raspberry pi
 
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
