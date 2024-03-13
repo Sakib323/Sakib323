@@ -1,7 +1,6 @@
 
 ## 🚀 About Me
-I'm a Data Sciencest,Full Stack Web Developer(flask),A cross platfrom app developer,a web designer,A tech gig.
-Have a look on my android app over here> https://play.google.com/store/apps/dev?id=7351632134720721029
+CEO at QBITLAB (qbitlab.tech) | Global Finalist @ NASA Space App Challenge | Data Scientist | A Techy 
 
 
 ## 🛠 Skills
