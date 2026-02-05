@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-CEO at QBITLAB (qbitlab.tech) | Global Finalist @ NASA Space App Challenge | Data Scientist | A Techy 
+Global Finalist @ NASA Space App Challenge | Data Scientist | A Techy 
 
 
 ## 🛠 Skills
